@@ -1,0 +1,6 @@
+Results in the pdf are in following order
+1.loss1459
+2.loss023678
+3.freezingLoss023678
+4.bonus-filterMaps
+5.final execution graph
